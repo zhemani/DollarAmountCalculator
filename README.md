@@ -1,2 +1,2 @@
 # DollarAmountCalculator
-Application to calculate the number of twenties, tens, fives, toonies, and loonies with a given dollar amount. Written in C.
+A program which calculates the numbers of twenties, tens, fives, toonies, and loonies needed to comprise a specific dollar amount inputted by the user. Written in C.
